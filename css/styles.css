@@ -5,3 +5,8 @@
   border: 5px solid black;
   float: left;
 }
+.column p {
+  color: green;
+ font-size: 25px;
+
+}
